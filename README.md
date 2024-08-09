@@ -18,15 +18,4 @@ V1.2 集成界面
 ![6E19F8A0-063D-45a4-ADB3-59600CDED3F8](https://github.com/user-attachments/assets/e805f4c6-ad72-41a9-ac3b-c1e5d299a7c2)
 
 项目结构
-vulnscan
- ├── fingerprint
- │   └── fingerprint.go
- ├── fingerprints.json
- ├── go.mod
- ├── go.sum
- ├── main.go
- ├── poc
- │   └── poc.go
- ├── pocs.json
- ├── proxy
- │   └── proxy.go
+![image](https://github.com/user-attachments/assets/7fb3428f-9eca-488d-aa2a-0bfda84f9b66)
